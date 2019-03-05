@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Anime</string>
+    <string name="naruto">Uzumaki Naruto</string>
+    <string name="desc_naruto">Uzumaki Naruto,
+        adalah anak dari hokage ke 4 yaitu Namikaze Minato,
+        Naruto juga mempunyai kekuatan rubah nekor sembilan
+        yaitu chakra kyuubi.
+    </string>
+    <string name="lihat">LIHAT</string>
+    <string name="share">SHARE</string>
+</resources>
